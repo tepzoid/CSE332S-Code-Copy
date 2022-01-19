@@ -9,5 +9,6 @@ int main()
 {
 	cout << "Hello CMake." << endl;
     //hiding information here
+	//reverse the process
 	return 0;
 }
