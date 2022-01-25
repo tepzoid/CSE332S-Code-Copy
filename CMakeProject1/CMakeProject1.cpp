@@ -5,10 +5,13 @@
 
 using namespace std;
 
-int main()
+int main(int argc, char * argv[])
 {
-	cout << "Hello CMake." << endl;
-    //hiding information here
-	//reverse the process
+	cout << argv[0] << endl;
+
+	int i = 9;
+	cout << "value of i: " << i << endl;
+	cout << "location of i: " << &i << endl;
+    
 	return 0;
 }
