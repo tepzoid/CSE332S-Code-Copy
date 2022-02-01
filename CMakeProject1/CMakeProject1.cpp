@@ -15,13 +15,14 @@ int main(int argc, char * argv[])
 //        cout << *p << endl;
 //        ++p;
 //    }
+//    for(int i = 0; i < argc; i++) {
+//        while (*p != '\0') {
+//            cout << *p << endl;
+//            ++p;
+//        }
+//    }
 
-        while (*p != '\0'){
-            cout << *p <<endl;
-        }
 
-
-
-   // cout << argv[0]<<endl;
+    cout << argv[0]<<endl;
 	return 0;
 }
