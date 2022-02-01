@@ -6,15 +6,21 @@
 
 using namespace std;
 
-int main(int, char * argv[])
+int main(int argc, char * argv[])
 {
 
-    const char * p = argv[0]; //Why not & argv[0]?
+    auto p = argv[0]; //Why not & argv[0]?
 
-    while(p!='\0'){           //Why is the output like that? Isn't char * represent C-style strings?
-        cout << *p << endl;
-        ++p;
-    }
+//    while(*p!='\0'){           //Why is the output like that? Isn't char * represent C-style strings?
+//        cout << *p << endl;
+//        ++p;
+//    }
+
+        while (*p != '\0'){
+            cout << *p <<endl;
+        }
+
+
 
    // cout << argv[0]<<endl;
 	return 0;
