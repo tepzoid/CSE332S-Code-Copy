@@ -1,0 +1,3 @@
+/Users/NRD/CLionProjects/lab1-tepzoid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/NRD/CLionProjects/lab1-tepzoid/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/NRD/CLionProjects/lab1-tepzoid/cmake-build-debug/CMakeFiles/lab1_tepzoid.dir
