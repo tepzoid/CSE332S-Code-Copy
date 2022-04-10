@@ -1,0 +1,5 @@
+blue Os O 0 1 
+blue Os O 1 0 
+red Xs X 0 2
+red Xs X 1 1
+red Xs X 1 2

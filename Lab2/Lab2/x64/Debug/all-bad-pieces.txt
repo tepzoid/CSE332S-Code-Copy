@@ -1,0 +1,6 @@
+3 4
+blue O 0 ' 
+ble Os O a 0 
+*ed 12 X 0 2
+re= Xs X 1 1
+test_bug
